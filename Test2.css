@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.a{
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    height: 60px;
+    position: fixed;
+    width: 100vw;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJrMCeYwRqQwGIhu8MlUGID7l3ITRgBDvGQ&usqp=CAU");
+    top: 0%;
+    background-size: cover;
+}
+.b{
+    margin-right: 70%;
+    margin-top: 0%;
+    margin-left: 10px;
+}
+.c{
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.d{
+    width: 40%;
+    margin-top: 10%;
+    max-width: 30%;
+    border-radius: 10px;
+    background-image: url("https://i.pinimg.com/originals/8b/e3/a0/8be3a0d9afc8590fb347334763675a7c.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    border: solid;
+}
+.e{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://www.financialexpress.com/wp-content/uploads/2022/04/Metaverse.jpg");
+    background-size: cover;
+    left: 0;
+    right: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.im{
+    height: 450px;
+    width: 600px;
+    margin-top: 10%;
+    background-image: url("https://i.pinimg.com/originals/82/68/eb/8268eb7011b7e232f63a6d3af2104d4b.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-radius: 10px;
+}
+p{
+    font-weight: 500;
+}
+.r{
+    display: flex;
+    justify-content: space-evenly;
+}
+.m{
+    display: flex;
+    height: 30px;
+    padding: 20px;
+    background-color: lavender;
+}
+.n{
+    margin-right: 60%;
+    margin-left: 10px;
+}
+
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: midnightblue;
+}
+.g{
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.f{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+}
+.p{
+    height: 50px;
+    width: 100px;
+    margin: 50px;
+}
+.f:hover{
+    background-color: blueviolet;
+}
+.g:hover{
+    background-color: blueviolet;
+}
+.o{
+    
+    margin-right: 20px;
+}
